@@ -1,4 +1,5 @@
-# QR-Code-Project
+# QR-Generator
+
 A simple yet small way to generate QR Code using JavaScript
 
 **To use this project**
